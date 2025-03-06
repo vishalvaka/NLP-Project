@@ -1,0 +1,38 @@
+CHATBOT:
+Welcome to the CS 421 chatbot!  What is your name?
+
+USER:
+Natalie Parde
+
+CHATBOT:
+Thanks Natalie Parde!  What do you want to talk about today?
+
+USER:
+I'm excited that it's a new semester!
+
+CHATBOT:
+It sounds like you're in a positive mood!
+
+CHATBOT:
+I'd also like to do a quick stylistic analysis. What's on your mind today?
+
+USER:
+I'm currently creating a sample transcript for the CS 421 students.  This will help them ensure that their programs work correctly.  It will also provide an example interaction for them!
+
+CHATBOT:
+Thanks!  Here's what I discovered about your writing style.
+Type-Token Ratio: 0.8823529411764706
+Average Tokens Per Sentence: 11.333333333333334
+# Nominal Subjects: 5
+# Direct Objects: 2
+# Indirect Objects: 0
+# Nominal Modifiers: 1
+# Adjectival Modifiers: 0
+Custom Feature #1: 0
+Custom Feature #2: 5
+
+CHATBOT:
+What would you like to do next?  You can quit, redo the sentiment analysis, or redo the stylistic analysis.
+
+USER:
+I think I'd like to quit.
